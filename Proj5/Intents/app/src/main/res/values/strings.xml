@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="first_arg">first argument</string>
+    <string name="second_arg">second argument</string>
+    <string name="run_name">Run</string>
+    <string name="op_field">Operation</string>
+    <string name="res_field">Result</string>
+    <string name="placeholder">None</string>
+</resources>
